@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" fill="#667eea"/>
+  <rect x="2" y="2" width="28" height="28" fill="white" stroke="#333" stroke-width="1"/>
+  
+  <!-- Grid lines -->
+  <line x1="12" y1="2" x2="12" y2="30" stroke="#333" stroke-width="2"/>
+  <line x1="20" y1="2" x2="20" y2="30" stroke="#333" stroke-width="2"/>
+  <line x1="2" y1="12" x2="30" y2="12" stroke="#333" stroke-width="2"/>
+  <line x1="2" y1="20" x2="30" y2="20" stroke="#333" stroke-width="2"/>
+  
+  <!-- Number 9 in center -->
+  <text x="16" y="22" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#667eea">9</text>
+</svg> 
