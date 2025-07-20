@@ -256,8 +256,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the project:
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/techies-sudoku/issues)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/AvantikaShukla03/techies-sudoku/issues)
+- **Email:** avantikashukla005@example.com
 - **Documentation:** Check this README and inline code comments
 
 ---
